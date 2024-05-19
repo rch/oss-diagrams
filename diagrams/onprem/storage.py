@@ -20,6 +20,14 @@ class Glusterfs(_Storage):
     _icon = "glusterfs.png"
 
 
+class Iceberg(_Storage):
+    _icon = "iceberg.png"
+
+
+class Ozone(_Storage):
+    _icon = "ozone.png"
+
+
 class Portworx(_Storage):
     _icon = "portworx.png"
 

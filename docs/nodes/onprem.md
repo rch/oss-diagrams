@@ -17,6 +17,9 @@ Node classes list of onprem provider.
 ## onprem.analytics
 
 
+<img width="30" src="/img/resources/onprem/analytics/atlas.png" alt="Atlas" style="float: left; padding-right: 5px;" >
+**diagrams.onprem.analytics.Atlas**
+
 <img width="30" src="/img/resources/onprem/analytics/beam.png" alt="Beam" style="float: left; padding-right: 5px;" >
 **diagrams.onprem.analytics.Beam**
 
@@ -206,11 +209,17 @@ Node classes list of onprem provider.
 <img width="30" src="/img/resources/onprem/database/hbase.png" alt="Hbase" style="float: left; padding-right: 5px;" >
 **diagrams.onprem.database.Hbase**, **HBase** (alias)
 
+<img width="30" src="/img/resources/onprem/database/impala.png" alt="Impala" style="float: left; padding-right: 5px;" >
+**diagrams.onprem.database.Impala**
+
 <img width="30" src="/img/resources/onprem/database/influxdb.png" alt="Influxdb" style="float: left; padding-right: 5px;" >
 **diagrams.onprem.database.Influxdb**, **InfluxDB** (alias)
 
 <img width="30" src="/img/resources/onprem/database/janusgraph.png" alt="Janusgraph" style="float: left; padding-right: 5px;" >
 **diagrams.onprem.database.Janusgraph**, **JanusGraph** (alias)
+
+<img width="30" src="/img/resources/onprem/database/kudu.png" alt="Kudu" style="float: left; padding-right: 5px;" >
+**diagrams.onprem.database.Kudu**
 
 <img width="30" src="/img/resources/onprem/database/mariadb.png" alt="Mariadb" style="float: left; padding-right: 5px;" >
 **diagrams.onprem.database.Mariadb**, **MariaDB** (alias)
@@ -530,6 +539,9 @@ Node classes list of onprem provider.
 <img width="30" src="/img/resources/onprem/security/bitwarden.png" alt="Bitwarden" style="float: left; padding-right: 5px;" >
 **diagrams.onprem.security.Bitwarden**
 
+<img width="30" src="/img/resources/onprem/security/ranger.png" alt="Ranger" style="float: left; padding-right: 5px;" >
+**diagrams.onprem.security.Ranger**
+
 <img width="30" src="/img/resources/onprem/security/trivy.png" alt="Trivy" style="float: left; padding-right: 5px;" >
 **diagrams.onprem.security.Trivy**
 
@@ -547,6 +559,12 @@ Node classes list of onprem provider.
 
 <img width="30" src="/img/resources/onprem/storage/glusterfs.png" alt="Glusterfs" style="float: left; padding-right: 5px;" >
 **diagrams.onprem.storage.Glusterfs**
+
+<img width="30" src="/img/resources/onprem/storage/iceberg.png" alt="Iceberg" style="float: left; padding-right: 5px;" >
+**diagrams.onprem.storage.Iceberg**
+
+<img width="30" src="/img/resources/onprem/storage/ozone.png" alt="Ozone" style="float: left; padding-right: 5px;" >
+**diagrams.onprem.storage.Ozone**
 
 <img width="30" src="/img/resources/onprem/storage/portworx.png" alt="Portworx" style="float: left; padding-right: 5px;" >
 **diagrams.onprem.storage.Portworx**

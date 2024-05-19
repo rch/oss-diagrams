@@ -1,3 +1,7 @@
+.direnv
+.env
+build
+
 # ide & editor
 .idea/
 .vscode/

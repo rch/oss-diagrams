@@ -40,12 +40,20 @@ class Hbase(_Database):
     _icon = "hbase.png"
 
 
+class Impala(_Database):
+    _icon = "impala.png"
+
+
 class Influxdb(_Database):
     _icon = "influxdb.png"
 
 
 class Janusgraph(_Database):
     _icon = "janusgraph.png"
+
+
+class Kudu(_Database):
+    _icon = "kudu.png"
 
 
 class Mariadb(_Database):

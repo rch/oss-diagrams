@@ -8,6 +8,10 @@ class _Analytics(_OnPrem):
     _icon_dir = "resources/onprem/analytics"
 
 
+class Atlas(_Analytics):
+    _icon = "atlas.png"
+
+
 class Beam(_Analytics):
     _icon = "beam.png"
 
